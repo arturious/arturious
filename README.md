@@ -27,10 +27,4 @@
 
 [![wakatime](https://wakatime.com/badge/user/018ea8ef-ec19-40f1-b747-cf0c760dadab.svg)](https://wakatime.com/@018ea8ef-ec19-40f1-b747-cf0c760dadab)
 
-![GitHub followers](https://img.shields.io/github/followers/arturious?label=Follow&style=social)
-
-[![X](https://img.shields.io/badge/x-%2324292F?style=flat&logo=x&link=https%3A%2F%2Fx.com%2Farxfuck)](https://x.com/arxfuck)
-
-[![Telegram](https://img.shields.io/badge/t.me-%2324292F?style=flat&logo=telegram&link=https%3A%2F%2Ft.me%2Ffeelinggodblessed)](https://t.me/feelinggodblessed)
-
 
